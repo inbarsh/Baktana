@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\3fc44071f6c976d6df9f97e135727c810c91e8c2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_97967c9adb5b1146a5d80cb528f1a32baf9aa6b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\a2614c177b95b18075595f92ab6a7512fb895001\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_299893c3c116a52ea864cafe9c9be6d377a8d863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\80c1e5c29aedae5fb0cb7827bed6e0b1a7fbe936\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_159c5202b97e87945ed9c38dc452f1bee33d1eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\3e533ca6c7a0c4f8f21d2de9c3cec84672de1513\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_434686fb10e00d8777a93622c40f7d74bed9fb8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6acfa0748a965d26339c21f1248c8ebe57370513">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_11c614df87114870d3c25e4b2ef0653742f25981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\460ba626d64a75c9c88afc7a79d440601bd79955\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8796d9b3cc120ad48433dfea2549e27fea6087f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\478acc1b1c13c4186f6ba22a7a3e255c1b9f0e02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a407139bb4f879e658874f9685a9fc2e59a7b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\527e0e0bd7761eeb731962c242d62049d698da08\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7768d79b53541851395ec0d13f3c8f8b246b2ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\e56896859ca7c536ef21e5a0e2152cd4e0f5cd1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b976c7b73fddfb6d71af0356233f10c9d9e4ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\062699f667c393e284804ddc336a2c11bc5b5a0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfad4baaca91f6719a1e0c7c1e8e5dd1fc784035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\d0d6095e05798cc3813c8583bff76ab6f79886da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_473993859c7e0f92e94be0e4a13a7659e3841a65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\9523f97793de14860c39eae9fc375b9f29772864\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_64804ba8a230a63619f8a11b9e38a98089669fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\89e9dde3743442180165c8bc0b0f77ef4c0aa6eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6fc7745ec22af3c1e118d93a7f8132b5f59c999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\527e0e0bd7761eeb731962c242d62049d698da08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c36edab496f9e9d5ad5d216f97ff477702533469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\2d73a2b5c5167a784ca0ec2683979685a661b8d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2e5a29bf752ced0b36967ab5888d35ede6a2802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\128bcb852436183d915cc6a5fcf0ed813c1403f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80123fd4f3acc5c13e0ef20c1d8109a57b63653b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2f1d29b98063fe88a094d5000b61187a27c0c53b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\8091d2ca4b72f5fe75afe762ffd8d3cba7881143\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_976b1ce5463f375185e87b2cd57af6c7ada25ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\7c569039f757d08bc970b8d7288ae80e4909d77b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b38f3a69df626ebc48930df1490f838c8469cd5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\3e533ca6c7a0c4f8f21d2de9c3cec84672de1513\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27d29c33e78368f99004e49b8514f8e1c928fcd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\f30e3f69534b099183cfe91f33b5d4c2907a1c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f93991f5f541262dca8a0cfff9ed411c39e44c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\6d031534b782ac342cf4c6b2077894724d7a17ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6083af7be30b4d3cc4f7a410d8c98046de4fde2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\59f5dcb251d43f3e3182c8bebd9cb61c31c51660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a19a8c101af9dabb4bfdd8233f27bc3d9b10c067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\a9238d3ff4e0464225f6646850894e4c6deb497a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be1d3723d32a5c14a36c6a0484c13f1a0714bcc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\3fc44071f6c976d6df9f97e135727c810c91e8c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ed8b5975ac62e0111dc9a7f1aeb911509cd6e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5ea4741995362b0450a01402a4e42cf85796ff0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\9523f97793de14860c39eae9fc375b9f29772864\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4741253f6807a05f6e900784d187ddcbdb165ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\eacf00dee06641d0d123fdfce4d6a57f0fb1c448\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8eccc6dc9911e1130860cd6119e9a1b6ae9beb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inbarsh\.android\build-cache\a2614c177b95b18075595f92ab6a7512fb895001\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\inbarsh\Documents\GitHub\Baktana\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c90527510b1dd2b727fbddae03af8bb9891943ff\classes.dex" />
+    </item>
+
+</items>

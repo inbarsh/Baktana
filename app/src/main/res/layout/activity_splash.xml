@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:components="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tt.hackextend.the23.SplashActivity"
+    android:background="#ff9933">
+
+    <com.tt.hackextend.the23.GifView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:gravity="center"
+        components:src="@raw/splash"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/view2"></com.tt.hackextend.the23.GifView>
+
+    <com.tt.hackextend.the23.GifView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        components:src="@raw/splash"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/view"
+        android:layout_toLeftOf="@+id/view2"
+        android:layout_toStartOf="@+id/view2"></com.tt.hackextend.the23.GifView>
+
+    <com.tt.hackextend.the23.GifView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:gravity="center"
+        components:src="@raw/splash"
+        android:id="@+id/view"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"></com.tt.hackextend.the23.GifView>
+
+
+</RelativeLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/bkgempty">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sign Up"
+        android:id="@+id/textViewSignUp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editTextEmail"
+        android:hint="Email"
+        android:layout_below="@+id/textViewSignUp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/editTextPasswordSI"
+        android:hint="Password"
+        android:layout_below="@+id/editTextEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/editTextPhone"
+        android:layout_below="@+id/editTextPasswordSI"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Phone"
+        android:layout_alignRight="@+id/editTextPasswordSI"
+        android:layout_alignEnd="@+id/editTextPasswordSI"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextCity"
+        android:layout_below="@+id/editTextPhone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="City"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextSkillGot"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="What&apos;s your skill?"
+        android:layout_below="@+id/editTextCity"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextSkillWant"
+        android:layout_below="@+id/editTextSkillGot"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="What skill would you like to master?"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextName"
+        android:layout_below="@+id/editTextSkillWant"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/editTextSkillWant"
+        android:layout_alignEnd="@+id/editTextSkillWant"
+        android:hint="Finally..what&apos;s your name?"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:imeOptions="actionDone"
+        android:singleLine="true"/>
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="Submit"
+        android:id="@+id/btnsubmit"
+        android:background="@drawable/orangecircle"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp" />
+</LinearLayout>
